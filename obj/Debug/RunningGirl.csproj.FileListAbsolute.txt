@@ -1,0 +1,9 @@
+D:\FaspBrowser\RunningGirl\bin\Debug\RunningGirl.exe
+D:\FaspBrowser\RunningGirl\bin\Debug\RunningGirl.pdb
+D:\FaspBrowser\RunningGirl\obj\Debug\RunningGirl.csprojResolveAssemblyReference.cache
+D:\FaspBrowser\RunningGirl\obj\Debug\RunningGirl.Properties.Resources.resources
+D:\FaspBrowser\RunningGirl\obj\Debug\RunningGirl.csproj.GenerateResource.Cache
+D:\FaspBrowser\RunningGirl\obj\Debug\RunningGirl.exe
+D:\FaspBrowser\RunningGirl\obj\Debug\RunningGirl.pdb
+D:\FaspBrowser\RunningGirl\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\FaspBrowser\RunningGirl\obj\Debug\RunningGirl.Form1.resources
